@@ -4380,6 +4380,18 @@
       "secondary_tileset": "gTileset_MtEmber",
       "border_filepath": "data/layouts/OneIsland_KindleRoad_EmberSpa/border.bin",
       "blockdata_filepath": "data/layouts/OneIsland_KindleRoad_EmberSpa/map.bin"
+    },
+    {
+      "id": "LAYOUT_ONETT",
+      "name": "Onett_Layout",
+      "width": 80,
+      "height": 60,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_PalletTownAutumn",
+      "border_filepath": "data/layouts/Onett/border.bin",
+      "blockdata_filepath": "data/layouts/Onett/map.bin"
     }
   ]
 }

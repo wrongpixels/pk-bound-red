@@ -1369,3 +1369,6 @@ Text_TestMsg::
 	.include "data/text/pokedude.inc"
 	.include "data/scripts/follower.inc"
 	.include "data/scripts/dexnav.inc"
+
+	.include "data/maps/Onett/scripts.inc"
+	.include "data/maps/Onett/text.inc"
