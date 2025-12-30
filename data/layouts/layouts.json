@@ -4392,6 +4392,18 @@
       "secondary_tileset": "gTileset_PalletTownAutumn",
       "border_filepath": "data/layouts/Onett/border.bin",
       "blockdata_filepath": "data/layouts/Onett/map.bin"
+    },
+    {
+      "id": "LAYOUT_NESS_HOUSE",
+      "name": "Ness_House_Layout",
+      "width": 40,
+      "height": 40,
+      "border_width": 1,
+      "border_height": 1,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_RestaurantHotel",
+      "border_filepath": "data/layouts/Ness_House/border.bin",
+      "blockdata_filepath": "data/layouts/Ness_House/map.bin"
     }
   ]
 }

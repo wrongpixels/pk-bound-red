@@ -1372,3 +1372,6 @@ Text_TestMsg::
 
 	.include "data/maps/Onett/scripts.inc"
 	.include "data/maps/Onett/text.inc"
+
+	.include "data/maps/Ness_House/scripts.inc"
+	.include "data/maps/Ness_House/text.inc"
