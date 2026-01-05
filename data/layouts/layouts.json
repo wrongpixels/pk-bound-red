@@ -4396,8 +4396,8 @@
     {
       "id": "LAYOUT_NESS_HOUSE",
       "name": "Ness_House_Layout",
-      "width": 40,
-      "height": 40,
+      "width": 60,
+      "height": 60,
       "border_width": 1,
       "border_height": 1,
       "primary_tileset": "gTileset_Building",
